@@ -6,11 +6,16 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuccaRig&show_icons=true&count_private=true&hide_border=true&title_color=5D3FD3&icon_color=5D3FD3&text_color=c9d1d9&bg_color=0d1117" alt="Lucca Rigueira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaRig&layout=compact&hide_border=true&title_color=5D3FD3&text_color=5D3FD3&bg_color=0d1117" />
 </div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuccaRig}/count.svg" /></p> 
-<br></div>
   
+### Current Studying:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+
+
+
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=120&section=footer"/>
+
